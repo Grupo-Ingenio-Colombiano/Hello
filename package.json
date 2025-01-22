@@ -1,0 +1,23 @@
+{
+  "name": "com.grupo-ingenio-colombiano.vp.hello",
+  "version": "1.0.0",
+  "displayName": "Hello INGCO",
+  "description": "Este paquete saluda por consola, es una prueba de componentes",
+  "unity": "2019.1",
+  "documentationUrl": "https://github.com/Grupo-Ingenio-Colombiano/Hello/blob/main/README.md",
+  "changelogUrl": "https://github.com/Grupo-Ingenio-Colombiano/Hello/blob/main/CHANGELOG.md",
+  "author": {
+    "name": "INGCO"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Grupo-Ingenio-Colombiano/Hello.git"
+  },
+  "samples": [
+    {
+      "displayName": "Example Usage",
+      "description": "Ejemplos de como usar xxxx.",
+      "path": "Samples~/ExampleUsage"
+    }
+  ]
+}
