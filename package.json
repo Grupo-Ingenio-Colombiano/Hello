@@ -1,6 +1,6 @@
 {
   "name": "com.grupo-ingenio-colombiano.vp.hello",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Hello INGCO",
   "description": "Este paquete saluda por consola, es una prueba de componentes",
   "unity": "2019.1",
